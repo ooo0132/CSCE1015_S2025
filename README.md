@@ -7,10 +7,6 @@ am3287
 ## Favorite Professor
 asdf
 ## EUID
-
-## Favorite Professor
-$(Akhil Motakatla)
-## EUID
 ooo0132
 ## Favorite Professor
 Akhil Motakatla
